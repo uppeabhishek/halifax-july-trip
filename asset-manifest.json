@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b895e39.css",
+    "main.js": "/static/js/main.158a8b2a.js",
+    "static/js/453.b8511af3.chunk.js": "/static/js/453.b8511af3.chunk.js",
+    "static/media/SweetHeavenBalls.jpg": "/static/media/SweetHeavenBalls.1da8d4b988c19c7f5ac9.jpg",
+    "static/media/PointPleasantPark.jpg": "/static/media/PointPleasantPark.c6400011cd3de39e4e8a.jpg",
+    "static/media/SunsetWithMalak.jpg": "/static/media/SunsetWithMalak.6c4ad39f44f503611208.jpg",
+    "static/media/AngelSunsetWithText.png": "/static/media/AngelSunsetWithText.4ae9ff632a22da040b57.png",
+    "index.html": "/index.html",
+    "main.7b895e39.css.map": "/static/css/main.7b895e39.css.map",
+    "main.158a8b2a.js.map": "/static/js/main.158a8b2a.js.map",
+    "453.b8511af3.chunk.js.map": "/static/js/453.b8511af3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b895e39.css",
+    "static/js/main.158a8b2a.js"
+  ]
+}
